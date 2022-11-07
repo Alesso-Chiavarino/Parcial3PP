@@ -216,6 +216,11 @@ int main() {
   int op ;
 
   do {
+
+	cout << "|----------------------------------------|" << endl;
+	cout << "| Bienvenido al sistema de Supermercado! |" << endl;
+	cout << "|----------------------------------------|" << endl << endl;
+
     cout << "1. Cargar informacion de ventas" << endl;
     cout << "2. Leer informacion de ventas" << endl;
     cout << "3. Actualizar informacion de ventas" << endl;
